@@ -1,0 +1,32 @@
+body{
+    background-color:#EAF6F6;
+    border:2px solid black;
+    padding:2px;
+}
+h1,h3{
+    color: rgb(255, 2, 2);
+}
+h3{
+    color: rgba(94, 255, 0, 0.801);
+}
+hr{
+    border-style:none;
+    border-top-style:solid;
+    border-color:black;
+    border-width: 2px;
+    width:99.5%;
+}
+.a2{
+    border: 1px solid black;
+    padding:1px;
+    color:yellow;
+    background:whitesmoke;
+    text-underline-position: unset;
+    margin:2px;
+}
+a:hover{
+    background-color: blue;
+}
+a:visited{
+    color:rgb(255, 2, 2);
+}
